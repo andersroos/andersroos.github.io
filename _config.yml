@@ -1,0 +1,11 @@
+encoding: utf-8
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: "default"
+
+    
