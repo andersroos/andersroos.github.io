@@ -3,9 +3,13 @@
 
 // Styles for Heroes buld order pages.
 
+body {
+    font-family: helvetica;
+}
+
 body.hots-bo {
     font-size: 24px;
-    margin-bottom: 1000px;
+    margin-bottom: 512px;
 
     h2 {
         font-size: 32px;
@@ -19,11 +23,17 @@ body.hots-bo {
     li {
         margin: 0px;
         list-style: none;
+        line-height: 2em;
         em, strong {
             text-align: right;
             display: inline-block;
             width: 32px;
+            padding: 0 12 0 4;
             margin: 4 16 4 4;
+            font-weight: 900;
+        }
+        strong {
+            background-color: #80d080;
         }
         em {
             font-style: normal;
