@@ -1,0 +1,32 @@
+---
+---
+
+// Styles for Heroes buld order pages.
+
+body.hots-bo {
+    font-size: 20px;
+    margin-bottom: 1000px;
+
+    h2 {
+        margin: 96 0 16 0;
+    }
+    
+    ul {
+        margin: 0px;
+        padding: 0px;
+    }
+    li {
+        margin: 0px;
+        list-style: none;
+        em, strong {
+            text-align: right;
+            display: inline-block;
+            width: 32px;
+            margin: 4 16 4 4;
+        }
+        em {
+            font-style: normal;
+        }
+        
+    }
+}

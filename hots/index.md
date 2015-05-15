@@ -1,7 +1,6 @@
 ---
+title: Heroes of the Storm
 ---
-
-# Heroes of the Storm #
 
 ## Build Orders ##
 
