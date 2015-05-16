@@ -6,5 +6,6 @@ title: Heroes of the Storm
 
 - [ E.T.C ]( etc.html )
 - [ Muradin ]( muradin.html )
+- [ Reghar ]( reghar.html )
 - [ Valla ]( valla.html )
 
