@@ -3,7 +3,8 @@ title: E.T.C.
 body_class: hots-bo
 ---
 
-## {{ page.title }} Tank Build, 2015-05-17 (Outdated/Wrong?)
+## {{ page.title }} Tank Build
+2015-05-17 (Outdated/Wrong?)
 
 -   _1_  Block
 -   _4_  Hammer-on?

@@ -3,7 +3,8 @@ title: Falstad
 body_class: hots-bo
 ---
 
-## {{ page.title }} Build, 2015-05-17
+## {{ page.title }} Build
+2015-05-17
 
 -   _1_  Power Throw
 -   _4_  Gathering Power

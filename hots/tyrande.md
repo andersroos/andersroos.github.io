@@ -3,7 +3,8 @@ title: Tyrande
 body_class: hots-bo
 ---
 
-## {{ page.title }} General Support Build, 2015-05-17
+## {{ page.title }} General Support Build
+2015-05-17
 
 -   _1_  Ranger\'s Mark
 -   _4_  Healing Ward
@@ -13,7 +14,8 @@ body_class: hots-bo
 -  _16_  Shooting Star
 - __20__ Rewind
 
-## {{ page.title }} DPS Build, 2015-05-17
+## {{ page.title }} DPS Build
+2015-05-17
 
 -   _1_  Emopwer
 -   _4_  Pierce

@@ -3,7 +3,8 @@ title: Reghar
 body_class: hots-bo
 ---
 
-## {{ page.title }} Healing Build, 2015-05-17
+## {{ page.title }} Healing Build
+2015-05-17
 
 -   _1_  Healing Totem
 -   _4_  Reactive Sparc

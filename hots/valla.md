@@ -3,7 +3,8 @@ title: Valla
 body_class: hots-bo
 ---
 
-## {{ page.title }} Auto Attack Build, 2015-05-17
+## {{ page.title }} Auto Attack Build
+2015-05-17
 
 -   _1_  Rancor
 -   _4_  Vampiric Assault
@@ -13,7 +14,8 @@ body_class: hots-bo
 -  _16_  Blood for Blood
 - __20__ Bolt of the Storm
 
-## {{ page.title }} Multi Shot Build, 2015-05-17
+## {{ page.title }} Multi Shot Build
+2015-05-17
 
 -   _1_  Composite Arrow
 -   _4_  Arsenal

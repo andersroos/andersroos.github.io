@@ -3,7 +3,8 @@ title: Thrall
 body_class: hots-bo
 ---
 
-## {{ page.title }} Build, 2015-05-17
+## {{ page.title }} Build
+2015-05-17
 
 -   _1_  Block
 -   _4_  Envenom

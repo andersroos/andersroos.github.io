@@ -3,7 +3,8 @@ title: Anub\'arak
 body_class: hots-bo
 ---
 
-## {{ page.title }} Build, 2015-05-17 (Outdated?)
+## {{ page.title }} Build
+2015-05-17 (Outdated?)
 
 -   _1_  Extended Spikes
 -   _4_  Underking
