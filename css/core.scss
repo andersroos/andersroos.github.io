@@ -5,6 +5,11 @@
 
 body {
     font-family: helvetica;
+
+    a#visited, a {
+        color: green;
+    }
+    
 }
 
 body.hots-bo {
