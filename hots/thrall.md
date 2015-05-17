@@ -3,11 +3,11 @@ title: Thrall
 body_class: hots-bo
 ---
 
-## {{ page.title }} Build
+## {{ page.title }} Build, 2015-05-17
 
 -   _1_  Block
 -   _4_  Envenom
--   _7_  Frostwolf's Grace
+-   _7_  Frostwolf\'s Grace
 - __10__ Sundering
 -  _13_  Grace of Air
 -  _16_  Tempest Fury

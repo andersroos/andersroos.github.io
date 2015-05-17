@@ -3,7 +3,7 @@ title: Muradin
 body_class: hots-bo
 ---
 
-## Tank Build
+## {{ page.title }} Tank Build, 2015-05-17
 
 -   _1_  Perfect Storm
 -   _4_  Sledgehammer

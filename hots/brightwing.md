@@ -3,7 +3,7 @@ title: Brightwing
 body_class: hots-bo
 ---
 
-## Healing Build
+## {{ page.title }} Healing Build, 2015-05-17
 
 -   _1_  Bribe
 -   _4_  Protective Shield

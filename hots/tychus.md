@@ -3,7 +3,7 @@ title: Tychus
 body_class: hots-bo
 ---
 
-## Build
+## {{ page.title }} Build, 2015-05-17
 
 -   _1_  Armor Piercing Rounds
 -   _4_  Melting Point

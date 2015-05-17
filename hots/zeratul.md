@@ -3,7 +3,7 @@ title: Zeratul
 body_class: hots-bo
 ---
 
-## {{ page.title }} Build
+## {{ page.title }} Builid, 2015-05-17
 
 -   _1_  Greater Cleave
 -   _4_  Sustained Anomoly

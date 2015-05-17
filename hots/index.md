@@ -1,12 +1,13 @@
 ---
 title: Heroes of the Storm
+body_class: bo-list
 ---
 
 ## Build Orders ##
 
 - Abathur
-- Abub'arak
-- Arthas
+- [ Anub\'arak ]( anubarak.html )
+- [ Arthas ]( arthas.html )
 - Azmodan
 - [ Brightwing ]( brightwing.html )
 - Chen
@@ -15,28 +16,28 @@ title: Heroes of the Storm
 - [ Falstad ]( falstad.html )
 - Gazlowe
 - [ Illidan ]( illidan.html )
-- Jaina
-- Kael'thas
+- [ Jaina ]( jaina.html )
+- Kael\'thas
 - Kerrigan
-- Li Li
-- Malfurion
+- [ Li Li ]( lili.html )
+- [ Malfurion ]( malfurion.html )
 - [ Muradin ]( muradin.html )
 - Murky
-- Nazeebo
-- Nova
+- [ Nazeebo ]( nazeebo.html )
+- [ Nova ]( nova.html) 
 - Raynor
 - [ Reghar ]( reghar.html )
 - Sgt Hammer
 - Sonya
 - Stitches
-- Sylvanas
+- [ Sylvanas ]( sylvanas.html )
 - [ Tassadar ]( tassadar.html )
 - Lost Vikings
 - [ Thrall ]( thrall.html )
 - [ Tychus ]( tychus.html )
 - Tyrael
 - [ Tyrande ]( tyrande.html )
-- Uther
+- [ Uther ]( uther.html )
 - [ Valla ]( valla.html )
 - [ Zagara ]( zagara.html )
 - [ Zeratul ]( zeratul.html )

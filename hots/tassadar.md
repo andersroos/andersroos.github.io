@@ -3,9 +3,9 @@ title: Tassadar
 body_class: hots-bo
 ---
 
-## Build
+## {{ page.title }} Build, 2015-05-17
 
--   _1_  Overdrive/Conjurer's Pursuit
+-   _1_  Overdrive/Conjurer\'s Pursuit
 -   _4_  Healing Ward
 -   _7_  Static Charge
 - __10__ Archon

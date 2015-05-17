@@ -3,7 +3,7 @@ title: Reghar
 body_class: hots-bo
 ---
 
-## Healing Build
+## {{ page.title }} Healing Build, 2015-05-17
 
 -   _1_  Healing Totem
 -   _4_  Reactive Sparc
@@ -11,4 +11,4 @@ body_class: hots-bo
 - __10__ Ancestral Healing
 -  _13_  Healing Surge
 -  _16_  Earthgrasp Totem
-- __20__ Farseer's Blessing
+- __20__ Farseer\'s Blessing
