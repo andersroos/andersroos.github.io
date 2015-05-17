@@ -5,4 +5,5 @@ body_class: bo-list
 
 ## Build Orders
 
-- Low Tech ZvT
+- [ Life Low Tech ZvT ]( life-low-tech-zvt.html )
+
