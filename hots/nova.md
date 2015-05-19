@@ -8,7 +8,7 @@ body_class: hots-bo
 
 -   _1_  Ambush Snipe
 -   _4_  Gathering Power
--   _7_  Anti-Armor Shells
+-   _7_  One in the Chamber
 - __10__ Precision Strike
 -  _13_  Lethal Decoy
 -  _16_  Crippling Shot

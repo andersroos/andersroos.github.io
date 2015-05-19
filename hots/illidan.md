@@ -4,7 +4,7 @@ body_class: hots-bo
 ---
 
 ## {{ page.title }} Build
-2015-05-17
+2015-05-19
 
 -   _1_  Shadow Shield
 -   _4_  Immolation

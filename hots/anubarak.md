@@ -4,13 +4,13 @@ body_class: hots-bo
 ---
 
 ## {{ page.title }} Build
-2015-05-17 (Outdated?)
+2015-05-19
 
--   _1_  Extended Spikes
+-   _1_  Assault Scarab
 -   _4_  Underking
 -   _7_  Bed of Barbs
 - __10__ Locust Swarm
--  _13_  Chitinous Plating
+-  _13_  Spell Shield
 -  _16_  Blood for Blood
 - __20__ Rewind
 

@@ -4,12 +4,12 @@ body_class: hots-bo
 ---
 
 ## {{ page.title }} Build
-2015-05-17
+2015-05-19
 
--   _1_  Power Throw
+-   _1_  Updraft
 -   _4_  Gathering Power
--   _7_  Secret Weapon
+-   _7_  First Aid
 - __10__ Hinterland Blast
--  _13_  Thunderstrikes
+-  _13_  Static Shield
 -  _16_  Overdrive
-- __20__ Call of the Windhammer
+- __20__ Epic Mount

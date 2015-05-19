@@ -32,7 +32,7 @@ body_class: bo-list
 - Stitches
 - [ Sylvanas ]( sylvanas.html )
 - [ Tassadar ]( tassadar.html )
-- Lost Vikings
+- [ The Lost Vikings ]( lost-vikings.html )
 - [ Thrall ]( thrall.html )
 - [ Tychus ]( tychus.html )
 - Tyrael
