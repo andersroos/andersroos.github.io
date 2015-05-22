@@ -8,7 +8,7 @@ body_class: hots-bo
 
 -   _1_  Conjurer\'s Pursuit
 -   _4_  Protective Shield
--   _7_  Cleanse
+-   _7_  Burden of Guilt
 - __10__ Divine Storm
 -  _13_  Shrink Ray
 -  _16_  Benediction
