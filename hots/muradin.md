@@ -3,7 +3,7 @@ title: Muradin
 body_class: hots-bo
 ---
 
-## {{ page.title }} Tank Build
+## {{ page.title }} Zuna Tank Build
 2015-05-19
 
 -   _1_  Reverberation
@@ -13,3 +13,4 @@ body_class: hots-bo
 -  _13_  Thunderstrike
 -  _16_  Stoneform
 - __20__ Rewind
+
