@@ -6,9 +6,9 @@ body_class: hots-bo
 ## {{ page.title }} Build
 2015-06-04 (Johanna)
 
--   _1_  Sharpened Blades
--   _4_  Seasoned Marksman
--   _7_  Battle Momentum
+-   _1_  Sweeping Grasp
+-   _4_  Envenom
+-   _7_  Impaling Swarm
 - __10__ Maelstrom
 -  _13_  Sprint
 -  _16_  Blood for Blood
