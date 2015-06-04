@@ -14,11 +14,12 @@ body_class: bo-list
 - Diablo
 - [ E.T.C ]( etc.html )
 - [ Falstad ]( falstad.html )
-- Gazlowe
+- [ Gazlowe ]( gazlowe.html )
 - [ Illidan ]( illidan.html )
 - [ Jaina ]( jaina.html )
+- [ Johanna ]( johanna.html )
 - Kael\'thas
-- Kerrigan
+- [ Kerrigan ](kerrigan.html)
 - [ Li Li ]( lili.html )
 - [ Malfurion ]( malfurion.html )
 - [ Muradin ]( muradin.html )

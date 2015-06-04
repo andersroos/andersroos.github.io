@@ -15,6 +15,18 @@ body_class: hots-bo
 - __20__ Rewind
 
 
+## {{ page.title }} Zuna Build
+2015-06-04 (Johanna)
+
+-   _1_  Extended Spikes
+-   _4_  Locust Swarm
+-   _7_  Urticating Spines
+- __10__ Locust Swarm
+-  _13_  Burning Range
+-  _16_  Blood for Blood
+- __20__ Rewind
+
+
 
 
 
