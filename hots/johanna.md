@@ -3,13 +3,24 @@ title: Johanna
 body_class: hots-bo
 ---
 
-## {{ page.title }} Build
+## {{ page.title }} Random Reddit User Protect
 2015-06-04 (Johanna)
 
--   _1_  ?
--   _4_  ?
--   _7_  ?
-- __10__ ?
--  _13_  ?
--  _16_  ?
-- __20__ ?
+-   _1_  Regeneration Master/?
+-   _4_  Laws of Hope/?
+-   _7_  The Crusade Marches On
+- __10__ Blessed Shield
+-  _13_  Hold Your Ground
+-  _16_  Imposing Presence
+- __20__ Storm Shield/Indestructible/Radiating Faith
+
+## {{ page.title }} Random Reddit User Damage
+2015-06-04 (Johanna)
+
+-   _1_  Regeneration Master/?
+-   _4_  Laws of Hope/?
+-   _7_  Battle Momentum
+- __10__ Falling Sword
+-  _13_  Burning Rage/Hold Your Ground
+-  _16_  Blessed Hammer/Imposing Presence
+- __20__ Haven's Fury
