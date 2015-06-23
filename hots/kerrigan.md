@@ -6,7 +6,7 @@ body_class: hots-bo
 ## {{ page.title }} Build
 2015-06-04 (Johanna)
 
--   _1_  Sweeping Grasp/Block
+-   _1_  Block
 -   _4_  Envenom
 -   _7_  Impaling Swarm
 - __10__ Maelstrom/Summon Ultralisk
