@@ -11,14 +11,14 @@ body_class: bo-list
 - Azmodan
 - [ Brightwing ]( brightwing.html )
 - Chen
-- Diablo
+- [ Diablo ]( diablo.html )
 - [ E.T.C ]( etc.html )
 - [ Falstad ]( falstad.html )
 - [ Gazlowe ]( gazlowe.html )
 - [ Illidan ]( illidan.html )
 - [ Jaina ]( jaina.html )
 - [ Johanna ]( johanna.html )
-- Kael\'thas
+- [ Kael\'thas ](kaelthas.html )
 - [ Kerrigan ](kerrigan.html)
 - [ Li Li ]( lili.html )
 - [ Malfurion ]( malfurion.html )
@@ -26,10 +26,10 @@ body_class: bo-list
 - Murky
 - [ Nazeebo ]( nazeebo.html )
 - [ Nova ]( nova.html) 
-- Raynor
+- [ Raynor ]( raynor.html )
 - [ Reghar ]( reghar.html )
 - Sgt Hammer
-- Sonya
+- [ Sonya ]( sonya.html )
 - Stitches
 - [ Sylvanas ]( sylvanas.html )
 - [ Tassadar ]( tassadar.html )
