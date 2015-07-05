@@ -3,16 +3,16 @@ title: Malfurion
 body_class: hots-bo
 ---
 
-## {{ page.title }} Build
-2015-05-17
+## {{ page.title }} Zuna/Simplified
+2015-07-04
 
--   _1_  Conjurer\'s Pursuit
--   _4_  Healing Ward
--   _7_  Enduring Growth
+-   _1_  Shan'do's Clarity/Moonburn
+-   _4_  Elune's Grace
+-   _7_  Cleanse/Strangling Vine
 - __10__ Tranquility
--  _13_  Ice Block
--  _16_  Hardened Focus
-- __20__ Storm Shield
+-  _13_  Ice Block/Shrink Ray
+-  _16_  Hardened Focus/Tenacious Roots
+- __20__ Bolt of the Storm/Storm Shield
 
 
 

@@ -3,13 +3,13 @@ title: Reghar
 body_class: hots-bo
 ---
 
-## {{ page.title }} Healing Build
-2015-05-17
+## {{ page.title }} Zuna Healing
+2015-07-04 (Butcher)
 
--   _1_  Healing Totem
--   _4_  Reactive Sparc
+-   _1_  Spiritwalker's Grace
+-   _4_  Shadow Wolf
 -   _7_  Earth Shield
 - __10__ Ancestral Healing
 -  _13_  Healing Surge
--  _16_  Earthgrasp Totem
-- __20__ Farseer\'s Blessing
+-  _16_  Tidal Wawes
+- __20__ Rewind

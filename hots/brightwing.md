@@ -3,7 +3,7 @@ title: Brightwing
 body_class: hots-bo
 ---
 
-## {{ page.title }} Healing Build
+## ~~ {{ page.title }} Healing Build ~~
 2015-05-19
 
 -   _1_  Bribe

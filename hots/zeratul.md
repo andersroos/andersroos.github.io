@@ -15,7 +15,16 @@ body_class: hots-bo
 - __20__ Rewind
 
 
+## {{ page.title }} Zuna Tier 1
+2015-07-04 (Butcher)
 
+-   _1_  Regen Master
+-   _4_  Focused Attack
+-   _7_  Follow Through
+- __10__ Void Prison
+-  _13_  Wormhole
+-  _16_  Stoneskin
+- __20__ Rewind
 
 
 

@@ -3,14 +3,14 @@ title: Muradin
 body_class: hots-bo
 ---
 
-## {{ page.title }} Zuna Tank Build
-2015-05-19
+## {{ page.title }} Zuna Tank/Old
+2015-07-04 (Butcher)
 
 -   _1_  Reverberation
 -   _4_  Thunderburn
--   _7_  Percing Bolt
+-   _7_  Battle Momentum/Percing Bolt
 - __10__ Avatar
--  _13_  Thunderstrike
+-  _13_  Thunder Strike
 -  _16_  Stoneform
 - __20__ Rewind
 
