@@ -23,12 +23,5 @@ body_class: hots-bo
 -   _7_  Follow Through
 - __10__ Void Prison
 -  _13_  Wormhole
--  _16_  Stoneskin
-- __20__ Rewind
-
-
-
-
-
-
-
+-  _16_  Double Bombs
+- __20__ Rewind/Nexus Blades

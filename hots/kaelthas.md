@@ -3,7 +3,7 @@ title: Kael'thas
 body_class: hots-bo
 ---
 
-## {{ page.title }} Getbond Flamestrike
+## {{ page.title }} Getbonkd Flamestrike
 2015-07-04 (Butcher)
 
 -   _1_  Mana Addict
