@@ -1,6 +1,6 @@
 ---
 title: Johanna
-body_class: hots-bo
+body_class: hots-bo outdated
 ---
 
 ## {{ page.title }} My Minion Build

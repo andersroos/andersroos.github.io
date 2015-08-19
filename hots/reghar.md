@@ -1,6 +1,6 @@
 ---
 title: Reghar
-body_class: hots-bo
+body_class: hots-bo outdated
 ---
 
 ## {{ page.title }} Zuna Healing

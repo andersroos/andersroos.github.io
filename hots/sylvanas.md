@@ -46,7 +46,3 @@ body_class: hots-bo
 
 
 
-
-
-
-

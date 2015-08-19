@@ -1,6 +1,6 @@
 ---
 title: Nazeebo
-body_class: hots-bo
+body_class: hots-bo outdated
 ---
 
 ## {{ page.title }} Build

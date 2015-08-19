@@ -1,6 +1,6 @@
 ---
 title: Kael'thas
-body_class: hots-bo
+body_class: hots-bo outdated
 ---
 
 ## {{ page.title }} Getbonkd Flamestrike

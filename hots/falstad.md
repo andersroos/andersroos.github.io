@@ -1,6 +1,6 @@
 ---
 title: Falstad
-body_class: hots-bo
+body_class: hots-bo outdated
 ---
 
 ## {{ page.title }} Burst Auto Attack Build
