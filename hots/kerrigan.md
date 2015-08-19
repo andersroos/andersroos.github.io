@@ -1,27 +1,15 @@
 ---
 title: Kerrigan
-body_class: hots-bo outdated
+body_class: hots-bo 
 ---
 
-## {{ page.title }} Patch Hypothetical
+## {{ page.title }} My/GetBonkd
 2015-08-19 (Kharazim)
 
--   _1_  
--   _4_  
--   _7_  
-- __10__ 
--  _13_  
--  _16_  
-- __20__ 
-
-
-## {{ page.title }} Build
-2015-06-04 (Johanna)
-
--   _1_  Block
+-   _1_  Block/Sharpened Blades
 -   _4_  Envenom
--   _7_  Impaling Swarm
-- __10__ Maelstrom/Summon Ultralisk
--  _13_  Sprint
--  _16_  Blood for Blood
+-   _7_  Impaling Swarm/Battle Momentum
+- __10__ Maelstrom
+-  _13_  Queens Rush
+-  _16_  Essence for Essence
 - __20__ Bolt of the Storm
