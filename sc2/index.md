@@ -8,6 +8,7 @@ body_class: bo-list
 ### ZvT
 
 - [ Life Low Tech ZvT ]( life-low-tech-zvt.html )
+- [ Solkey +1/+1 Roach Timing ]( soulkey-roach-timing-zvt.html )
 
 ## LotV Build Orders
 

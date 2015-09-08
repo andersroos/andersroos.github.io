@@ -19,7 +19,7 @@ body_class: bo-list
 - [ Jaina ]( jaina.html )
 - [ Johanna ]( johanna.html )
 - [ Kael\'thas ]( kaelthas.html )
-- [ Kerrigan ](k errigan.html )
+- [ Kerrigan ]( kerrigan.html )
 - [ Kharazim ]( kharazim.html ) 
 - [ Li Li ]( lili.html )
 - [ Malfurion ]( malfurion.html )
