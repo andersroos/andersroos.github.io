@@ -7,7 +7,7 @@ body_class: bo-list
 
 - [ General ZvZ ]( general-zvz.html )
 - [ General ZvT ]( general-zvt.html )
-- [ General ZvP ]( general-zvphtml )
+- [ General ZvP ]( general-zvp.html )
 
 ## LotV - HotS timings
 
