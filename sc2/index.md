@@ -3,13 +3,18 @@ title: Starcraft 2
 body_class: bo-list
 ---
 
-## HotS Build Orders
-
-### ZvT
-
-- [ Life Low Tech ZvT ]( life-low-tech-zvt.html )
-- [ Solkey +1/+1 Roach Timing ]( soulkey-roach-timing-zvt.html )
-
 ## LotV Build Orders
 
-- [ LotV Opening ]( lotv-opening.html )
+- [ General ZvZ ]( general-zvz.html )
+- [ General ZvT ]( general-zvt.html )
+- [ General ZvP ]( general-zvphtml )
+
+## LotV - HotS timings
+
+| HotS What        |  HotS | LotV |
+|------------------|-------|------|
+| 30 filter drones |  6:00 | 4:20 |
+| 60 filter drones |  8:00 | 5:50 |
+| 150 supply       | 10:00 | 7:15 |
+| ZvP gasses       |  5:30 | 4:00 |
+| overlord scount  |  6:00 | 3:45 |
