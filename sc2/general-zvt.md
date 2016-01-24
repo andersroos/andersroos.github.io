@@ -1,5 +1,5 @@
 ---
-title: Genreral ZvZ
+title: Genreral ZvT
 body_class: sc2-bo
 ---
 

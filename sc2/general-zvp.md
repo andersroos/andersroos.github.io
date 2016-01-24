@@ -1,5 +1,5 @@
 ---
-title: Genreral ZvZ
+title: Genreral ZvP
 body_class: sc2-bo
 ---
 
@@ -13,7 +13,7 @@ body_class: sc2-bo
 - `00:00` _100% Pool_          speed, queen 1 + 2, 2 x zergling, 2 drones off gas
 - `00:00` _32_                 Hatch 3 (scout protoss natural)
 - `00:00` _34_                 queen 3
-- `00:00` __SCOUT__            3rd, natural gasses
+- `00:00` __SCOUT__            scout 3rd, scout natural gasses
 - `00:00` _@100 gas_           Extractor 2 + 4 + 4, Lair, Roach Warren
 - `00:00` _??_                 Ev after a few drones.
 - `00:00` _@ 3 base staur_     12 roaches + react
