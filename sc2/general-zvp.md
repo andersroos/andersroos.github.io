@@ -5,15 +5,17 @@ body_class: sc2-bo
 
 2016-01-20
 
-- `00:00` _13_                 overlord
-- `00:00` _17_                 Hatch 2
-- `00:00` _18_                 Extractor 1
-- `00:00` _18_                 Spawning Pool
-- `00:00` _19_                 overlord
-- `00:00` _100% Pool_          speed, queen 1 + 2, 2 x zergling, 2 drones off gas
-- `00:00` _32_                 Hatch 3 (scout protoss natural)
-- `00:00` _34_                 queen 3
-- `00:00` __SCOUT__            scout 3rd, scout natural gasses
-- `00:00` _@100 gas_           Extractor 2 + 4 + 4, Lair, Roach Warren
-- `00:00` _??_                 Ev after a few drones.
-- `00:00` _@ 3 base staur_     12 roaches + react
+Timings är det bästa jag har åstakommit mot ai.
+
+- `    ` _13_                 overlord
+- `    ` _17_                 Hatch 2
+- `    ` _18_                 Extractor 1
+- `    ` _18_                 Spawning Pool
+- `    ` _19_                 overlord
+- `    ` _100% Pool_          speed, queen 1 + 2, 2 x zergling, 2 drones off gas
+- `2:50` _32_                 Hatch 3 (scout protoss natural)
+- `    ` _34_                 queen 3
+- `3:30` __SCOUT__            scout tech, scout third
+- `3:50` _@100 gas_           Extractor 2 + 4 + 4, Lair, Roach Warren
+- `4:30` _100% Extractor_     2 x Ev
+- `5:20` _@ 60 drones_        12 roaches + react
