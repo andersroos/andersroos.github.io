@@ -5,7 +5,7 @@ body_class: sc2-bo
 
 2016-01-20
 
-Timings är det bästa jag har åstakommit mot ai.
+The timings are my best against AI.
 
 - `    ` _13_                 overlord
 - `    ` _17_                 Hatch 2
@@ -18,4 +18,4 @@ Timings är det bästa jag har åstakommit mot ai.
 - `3:30` __SCOUT__            scout tech, scout third
 - `3:50` _@100 gas_           Extractor 2 + 4 + 4, Lair, Roach Warren
 - `4:30` _100% Extractor_     2 x Ev
-- `5:20` _@ 60 drones_        12 roaches + react
+- `5:10` _@ 60 drones_        12 roaches + react
