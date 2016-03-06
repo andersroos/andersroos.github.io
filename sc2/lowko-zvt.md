@@ -10,11 +10,11 @@ body_class: sc2-bo
 - `    ` _18_                 Extractor 1
 - `    ` _18_                 Spawning Pool
 - `    ` _19_                 overlord
-- `    ` _100% Pool_          speed, queen 1 + 2, 4 x zerg, 2 drones off gas
+- `    ` _100% Pool_          speed, queen 1 + 2, 4 x zerg, 1 d in gas
 - `    ` _100% queen 2_       queen 3
 - `    ` _100% queem 3_       queen 4
-- `    ` _2 base sat_         Hatch 3, 3 Ex mining, Roach W, 20 Lings
-- `    ` _100% Roach W_       Lair, 2 x Evo, ~5 Roaches
+- `    ` _2 base sat_         Hatch 3, 3 Ex up, Roach, 20 zerg
+- `    ` _100% Roach W_       Lair, 2 x Evo, ~5 roaches
 - `    ` _100% Lair_          +1/+1/Speed
 - `    ` _3 base sat_         6 Ex mining
 - `    ` _100% +1/+1_         Attack with Roach/Ravanger
