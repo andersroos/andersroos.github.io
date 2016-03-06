@@ -5,12 +5,15 @@ body_class: bo-list
 
 ## LotV Build Orders
 
+### ZvZ
 - [ General ZvZ ]( general-zvz.html )
 
+### ZvT
 - [ General ZvT ]( general-zvt.html )
 - [ Lowko General ZvT ]( lowko-zvt.html )
 - [ Pig 3 Ravanger ZvT ]( pig-zvt-3-ravanger-push.html )
 
+### ZvP
 - [ General ZvP ]( general-zvp.html )
 
 ## LotV - HotS timings
