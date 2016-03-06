@@ -13,10 +13,10 @@ body_class: sc2-bo
 - `    ` _100% Pool_          speed, queen 1 + 2, 2 x zergling, 2 drones off gas
 - `    ` _100% queen 2_       queen 3
 - `    ` _100% queem 3_       queen 4
-- `    ` _2 base saturation_  Hatch 3, 3 Extractors mining, Roach Warren, 20 Lings
-- `    ` _100% Roach Warren_  Lair, 2 x Evo, ~5 Roaches
+- `    ` _2 base sat_         Hatch 3, 3 Ex mining, Roach W, 20 Lings
+- `    ` _100% Roach W_       Lair, 2 x Evo, ~5 Roaches
 - `    ` _100% Lair_          +1/+1/Speed
-- `    ` _3 base saturation_  6 Extractors mining
+- `    ` _3 base sat_         6 Ex mining
 - `    ` _100% +1/+1_         Attack with Roach/Ravanger
 
 Benchmark in training:
