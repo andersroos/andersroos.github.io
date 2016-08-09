@@ -5,8 +5,12 @@ body_class: bo-list
 
 ## LotV Build Orders
 
+### Standard
+
 - [ Lowko General ZvT ]( lowko-zvt.html )
 - [ General ZvP ]( general-zvp.html )
+
+### Other
 
 - [ Pig 3 Ravanger ZvT ]( pig-zvt-3-ravanger-push.html )
 - [ General ZvZ ]( general-zvz.html )
