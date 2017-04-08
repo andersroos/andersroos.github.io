@@ -14,8 +14,9 @@ body_class: bo-list
 - [ Jaina ]( jaina.html )
 - [ Kael\'thas ]( kaelthas.html )
 
+- [ Butcher ]( butcher.html )
 - [ Kerrigan ]( kerrigan.html )
-- [ Thrall ]( thrall.html )
+- [ Thrall ]( thrall.html ) ???
 
 - [ Sylvanas ]( sylvanas.html )
 - [ Zagara ]( zagara.html )

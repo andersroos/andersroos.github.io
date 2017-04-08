@@ -3,13 +3,13 @@ title: Kerrigan
 body_class: hots-bo 
 ---
 
-## {{ page.title }} My/GetBonkd
-2015-08-19 (Kharazim)
+## {{ page.title }} Build
+2017-04-08
 
 -   _1_  Block/Sharpened Blades
--   _4_  Envenom
--   _7_  Impaling Swarm/Battle Momentum
-- __10__ Maelstrom
--  _13_  Queens Rush
--  _16_  Essence for Essence
-- __20__ Bolt of the Storm
+-   _4_  Fury of the Swarm
+-   _7_  Bladed Momentum
+- __10__ Maelstrom/Summon Ultralisk
+-  _13_  Double Strike
+-  _16_  Agressive Defence
+- __20__ Nexus Blades

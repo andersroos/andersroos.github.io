@@ -4,14 +4,14 @@ body_class: hots-bo
 ---
 
 ## {{ page.title }} Build
-2015-05-19
+2017-04-08
 
--   _1_  With the Wind
--   _4_  Envenom
+-   _1_  Overflowing Quiver
+-   _4_  Lost Soul
 -   _7_  Unstable Poison
 - __10__ Wailing Arrow
--  _13_  Evasive Fire
--  _16_  Blod for Blood
+-  _13_  Windrunner
+-  _16_  Overwhelming Afflicion
 - __20__ Bolt of the Storm
 
 

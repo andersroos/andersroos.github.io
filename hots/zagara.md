@@ -4,13 +4,13 @@ body_class: hots-bo
 ---
 
 ## {{ page.title }} Build
-2015-05-17
+2017-04-08
 
--   _1_  Corpse Feeders
+-   _1_  Infest
 -   _4_  Envenomed Spines
--   _7_  Rapid Incubation
+-   _7_  Bile Drop
 - __10__ Devouring Maw
--  _13_  Grooved Spines
--  _16_  Brood Expansion
-- __20__ Bolt of the Storm
+-  _13_  Protected Coating
+-  _16_  Mutalisk
+- __20__ Endless Creep
 
