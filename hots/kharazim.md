@@ -3,13 +3,13 @@ title: Kharazim
 body_class: hots-bo
 ---
 
-## {{ page.title }} GetBonkd Heal
-2015-08-19 (Kharazim)
+## {{ page.title }} Build
+2017-04-08
 
--   _1_  Trancendence
--   _4_  Protective Shield
--   _7_  Echo of Heaven
+-   _1_  Iron Fists
+-   _4_  Spirit Ally
+-   _7_  Heavenly Zeal
 - __10__ Divine Palm
 -  _13_  Quicksilver
--  _16_  Cirkle of Life
-- __20__ Storm Shield
+-  _16_  Echo of Heaven
+- __20__ Epiphany

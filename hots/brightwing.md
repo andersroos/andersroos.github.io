@@ -1,15 +1,15 @@
 ---
 title: Brightwing
-body_class: hots-bo outdated
+body_class: hots-bo
 ---
 
-## {{ page.title }} Zuna/Mine
-2015-07-04 (Butcher)
+## {{ page.title }} Build
+2017-04-08
 
--   _1_  Hyper Shift
--   _4_  Peekabo/Any
--   _7_  Phase Shield
-- __10__ Blink Heal/Emerald Wind
--  _13_  Shield Dust/Sticky Flare
--  _16_  Critterize
-- __20__ Storm Shield
+-   _1_  Pixie Charm
+-   _4_  Manic Pixie
+-   _7_  Mistfield
+- __10__ Emerald Wind
+-  _13_  Shield Dust
+-  _16_  Bouncy Dust
+- __20__ Countinous Winds

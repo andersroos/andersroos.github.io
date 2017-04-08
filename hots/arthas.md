@@ -4,15 +4,15 @@ body_class: hots-bo
 ---
 
 ## {{ page.title }} Build
-2015-05-17
+2017-04-08
 
--   _1_  Regeneration Master
--   _4_  Destruction
--   _7_  Frost Strike
+-   _1_  Rime 
+-   _4_  Frozen Wastes
+-   _7_  Rune Tap
 - __10__ Army of the Dead
--  _13_  Spell Shield
--  _16_  Stoneskin
-- __20__ Hardened Shield
+-  _13_  Biting Cold
+-  _16_  Frostmourne Feeds
+- __20__ Death's Advance
 
 
 
