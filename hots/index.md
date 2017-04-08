@@ -5,19 +5,15 @@ body_class: bo-list
 
 ## Build Orders ##
 
-- [ Arthas ]( arthas.html )
-- [ Johanna ]( johanna.html )
-
-- [ Brightwing ]( brightwing.html )
-- [ Kharazim ]( kharazim.html ) 
-
-- [ Jaina ]( jaina.html )
-- [ Kael\'thas ]( kaelthas.html )
-
-- [ Butcher ]( butcher.html )
-- [ Kerrigan ]( kerrigan.html )
-- [ Thrall ]( thrall.html ) ---
-
-- [ Nazeebo ]( nazeebo.html )
-- [ Sylvanas ]( sylvanas.html )
-- [ Zagara ]( zagara.html ) ---
+- T [ Arthas ]( arthas.html )
+- T [ Johanna ]( johanna.html )
+- H [ Brightwing ]( brightwing.html )
+- H [ Kharazim ]( kharazim.html ) 
+- R [ Jaina ]( jaina.html )
+- R [ Kael\'thas ]( kaelthas.html )
+- M [ Butcher ]( butcher.html )
+- M [ Kerrigan ]( kerrigan.html )
+- M [ Thrall ]( thrall.html ) ---
+- S [ Nazeebo ]( nazeebo.html )
+- S [ Sylvanas ]( sylvanas.html )
+- S [ Zagara ]( zagara.html ) ---
