@@ -16,7 +16,8 @@ body_class: bo-list
 
 - [ Butcher ]( butcher.html )
 - [ Kerrigan ]( kerrigan.html )
-- [ Thrall ]( thrall.html ) ???
+- [ Thrall ]( thrall.html ) ---
 
+- [ Nazeebo ]( nazeebo.html )
 - [ Sylvanas ]( sylvanas.html )
-- [ Zagara ]( zagara.html )
+- [ Zagara ]( zagara.html ) ---
