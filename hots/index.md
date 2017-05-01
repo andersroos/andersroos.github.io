@@ -14,7 +14,6 @@ average), 2 (around average) or 3 (below average) in silver/gold.
 - H1 [ Lucio ]( lucio.html )
 - H1 [ Li Li ]( lili.html )
 - H2 [ Brightwing ]( brightwing.html )
-- H3 [ Kharazim ]( kharazim.html )
 - R1 [ Zuljin ]( zuljin.html )
 - R1 [ Jaina ]( jaina.html )
 - R1 [ Kael\'thas ]( kaelthas.html )
@@ -24,3 +23,7 @@ average), 2 (around average) or 3 (below average) in silver/gold.
 - S1 [ Nazeebo ]( nazeebo.html )
 - S1 [ Zagara ]( zagara.html )
 - S2 [ Sylvanas ]( sylvanas.html )
+
+## Unused
+
+- H3 [ Kharazim ]( kharazim.html )
