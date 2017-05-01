@@ -4,37 +4,13 @@ body_class: hots-bo
 ---
 
 ## {{ page.title }} Build
-2015-05-19
+2017-05-01
 
--   _1_  Assault Scarab
--   _4_  Underking
--   _7_  Bed of Barbs
+-   _1_  Nerubian Armor
+-   _4_  Bed of Barbs
+-   _7_  Subterran Shield
 - __10__ Locust Swarm
--  _13_  Spell Shield
--  _16_  Blood for Blood
-- __20__ Rewind
-
-
-## {{ page.title }} Zuna Build
-2015-06-04 (Johanna)
-
--   _1_  Extended Spikes
--   _4_  Locust Swarm
--   _7_  Urticating Spines
-- __10__ Locust Swarm
--  _13_  Burning Range
--  _16_  Blood for Blood
-- __20__ Rewind
-
-
-
-
-
-
-
-
-
-
-
-
+-  _13_  Burning Rage
+-  _16_  Epicenter
+- __20__ Hive Master
 
